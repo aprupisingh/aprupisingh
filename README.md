@@ -107,7 +107,33 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 - Data Visualization
 
 ---
+<hr>
 
+<h2 align="left">
+🎯 My Goals
+</h2>
+
+<div>
+
+<ul>
+<li>🚀 Become a skilled <b>Data Analyst</b> and solve real-world data problems</li>
+
+<li>📊 Build impactful <b>Data Analytics & Business Intelligence projects</b></li>
+
+<li>📈 Create interactive dashboards using <b>Power BI</b> and visualization tools</li>
+
+<li>🐍 Improve my expertise in <b>Python, SQL, Excel, and Data Analysis</b></li>
+
+<li>🤖 Explore <b>Machine Learning</b> and apply it to data-driven solutions</li>
+
+<li>🌍 Contribute to open-source projects and collaborate with developers</li>
+
+<li>💼 Gain industry experience and grow as a professional Data Analyst</li>
+</ul>
+
+</div>
+
+<hr>
 ## 📫 Contact
 
 📧 Email: singhaprupinath@gmail.com
