@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Aprupinath Singh
 
-<!--
-**aprupisingh/aprupisingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analytics Enthusiast | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning Data Analytics and working with:
+
+- Python 🐍
+- SQL
+- Power BI
+- Excel
+- Data Visualization
+
+## 🚀 Projects
+
+- Sales Data Analysis Dashboard
+- Python Data Analysis Projects
+
+## 📫 Contact
+
+Email:
+singhaprupinath@gmail.com
