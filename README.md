@@ -72,20 +72,11 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 📊 **Sales Data Analysis Dashboard**
 - Analyzed sales data and created interactive Power BI reports.
 
-🐍 **Python Data Analysis Project**
-- Performed data cleaning, analysis, and visualization using Python.
-
-📈 **Business Intelligence Reports**
-- Created insights from datasets to support decision-making.
-
----
-
 ## 🏆 Certifications & Learning
 
 - Data Analytics Training
 - Python Programming
-- SQL Learning
-- Power BI Dashboard Development
+
 
 ---
 
@@ -93,8 +84,7 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 
 - Data Analytics Projects
 - Dashboard Development
-- Open Source Data Projects
-- Business Intelligence Solutions
+
 
 ---
 
@@ -124,11 +114,7 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 
 <li>🐍 Improve my expertise in <b>Python, SQL, Excel, and Data Analysis</b></li>
 
-<li>🤖 Explore <b>Machine Learning</b> and apply it to data-driven solutions</li>
 
-<li>🌍 Contribute to open-source projects and collaborate with developers</li>
-
-<li>💼 Gain industry experience and grow as a professional Data Analyst</li>
 </ul>
 
 </div>
