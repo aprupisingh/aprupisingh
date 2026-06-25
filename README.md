@@ -1,23 +1,119 @@
 # 💫 Hi 👋, I'm Aprupinath Singh
 
-📊 Data Analytics Enthusiast | Aspiring Data Analyst
+<div align="center">
+
+### 📊 Data Analytics Enthusiast | Aspiring Data Analyst | Data Storyteller 🚀
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I am learning Data Analytics and working with:
+Hello! I'm **Aprupinath Singh**, a passionate Data Analytics learner who enjoys working with data, discovering patterns, and transforming raw information into meaningful insights.
 
-- Python 🐍
+I am building my skills in **Data Analysis, Data Visualization, Business Intelligence, and Data-driven problem solving**. I love exploring datasets, creating dashboards, and finding solutions through analytics.
+
+---
+
+## 🎯 Career Objective
+
+To become a skilled **Data Analyst** and apply my analytical thinking, technical knowledge, and problem-solving abilities to solve real-world business problems using data.
+
+---
+
+## 🔭 Currently Working On
+
+- 📊 Data Analytics projects using real-world datasets
+- 📈 Interactive dashboards using Power BI
+- 🧹 Data cleaning and preprocessing
+- 📌 Exploratory Data Analysis (EDA)
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python for Data Analytics
+- 🗄️ SQL & Database Management
+- 📊 Power BI
+- 📈 Data Visualization
+- 📚 Statistics
+- 🤖 Machine Learning Basics
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
 - SQL
-- Power BI
+
+### Data Analytics Tools
 - Excel
+- Power BI
+- Jupyter Notebook
+
+### Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+
+### Database
+- MySQL
+
+### Other Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Projects
+
+📊 **Sales Data Analysis Dashboard**
+- Analyzed sales data and created interactive Power BI reports.
+
+🐍 **Python Data Analysis Project**
+- Performed data cleaning, analysis, and visualization using Python.
+
+📈 **Business Intelligence Reports**
+- Created insights from datasets to support decision-making.
+
+---
+
+## 🏆 Certifications & Learning
+
+- Data Analytics Training
+- Python Programming
+- SQL Learning
+- Power BI Dashboard Development
+
+---
+
+## 🤝 Looking To Collaborate On
+
+- Data Analytics Projects
+- Dashboard Development
+- Open Source Data Projects
+- Business Intelligence Solutions
+
+---
+
+## 💬 Ask Me About
+
+- Data Analysis
+- SQL Queries
+- Power BI Dashboards
+- Python Data Analysis
 - Data Visualization
 
-## 🚀 Projects
-
-- Sales Data Analysis Dashboard
-- Python Data Analysis Projects
+---
 
 ## 📫 Contact
 
-Email:
-singhaprupinath@gmail.com
+📧 Email: singhaprupinath@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy exploring data, finding hidden patterns, and converting numbers into meaningful stories 📈✨
