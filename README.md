@@ -66,22 +66,20 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 - VS Code
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
-
+## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aprupisingh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aprupisingh&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprupisingh&layout=compact&theme=tokyonight&hide_border=true" />
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aprupisingh&show_icons=true&theme=tokyonight)
+</div>
+<div align="center">
+  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aprupisingh&layout=compact&theme=tokyonight)
 </div>
 
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight)
+</div>
 ---
 
 
