@@ -80,14 +80,10 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight)
 </div>
----
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📂 Projects
-
-📊 **Sales Data Analysis Dashboard**
-- Analyzed sales data and created interactive Power BI reports.
 
 ## 🏆 Certifications & Learning
 
