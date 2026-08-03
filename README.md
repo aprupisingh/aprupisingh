@@ -136,6 +136,19 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </div>
 
 <hr>
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/aprupisingh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:singhaprupinath@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 ## 📫 Contact
 
 📧 Email: singhaprupinath@gmail.com
