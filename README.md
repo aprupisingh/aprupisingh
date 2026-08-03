@@ -73,9 +73,6 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </div>
 <div align="center">
 
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight&hide_border=true" />
 
 </div>
