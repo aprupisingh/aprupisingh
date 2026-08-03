@@ -136,7 +136,7 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </div>
 
 <hr>
-## 🤝 Let's Connect
+###🤝 Let's Connect
 
 <p align="center">
 
@@ -149,7 +149,7 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </a>
 
 </p>
-## 📫 Contact
+###📫 Contact
 
 📧 Email: singhaprupinath@gmail.com
 
