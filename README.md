@@ -72,11 +72,7 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aprupisingh&show_icons=true&theme=tokyonight)
 </div>
 <div align="center">
-  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aprupisingh&layout=compact&theme=tokyonight)
-</div>
-<div align="center">
-  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight)
 </div>
 
