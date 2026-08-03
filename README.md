@@ -73,11 +73,6 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </div>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aprupisingh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprupisingh&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
