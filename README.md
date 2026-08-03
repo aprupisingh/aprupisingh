@@ -73,9 +73,17 @@ To become a skilled **Data Analyst** and apply my analytical thinking, technical
 </div>
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=aprupisingh&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprupisingh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=aprupisingh&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
