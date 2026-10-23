@@ -3,7 +3,15 @@
 
 ### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-I'm a Computer Science student passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions. I enjoy analyzing datasets, solving problems, creating interactive dashboards, and continuously improving my technical skills.
+I'm an aspiring **Data Analyst** passionate about exploring data, discovering hidden patterns, and turning raw information into meaningful business insights. 📊
+
+💡 I enjoy solving real-world problems using **Python, SQL, Excel, and Power BI**.
+
+🚀 From cleaning datasets to building interactive dashboards, I transform data into insights that support smarter decisions.
+
+🌱 Always learning, always analyzing, and always building something new!
+
+🤝 Let's connect, collaborate, and turn data into impact!
 
 📍 **Location:** Daman, India  
 🎓 **Education:** Bachelor's Degree in Computer Science (Pursuing)  
